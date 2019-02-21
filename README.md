@@ -8,8 +8,8 @@ modified from https://nuterian.github.io/resume/
 
 - [中文简历 HTML](https://observerss.github.io/resumecn.html)
 - [中文简历 PDF](https://observerss.github.io/resumecn.pdf)
-- [English Resume HTML]()
-- [English Resume PDF]()
+- [English Resume HTML](https://observerss.github.io/resume.html)
+- [English Resume PDF](https://observerss.github.io/resume.pdf)
 
 ### generate pdf
 
